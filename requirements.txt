@@ -1,0 +1,5 @@
+python-binance
+numpy
+pandas
+matplotlib
+ta-lib
